@@ -1,0 +1,1 @@
+# Soil-Image-Classification-for-Pulses-Cultivation
